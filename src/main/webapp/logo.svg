@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%">
+      <stop offset="0%" stop-color="#CFAF5A"></stop>
+      <stop offset="50%" stop-color="#FFD700"></stop>
+      <stop offset="100%" stop-color="#B8963A"></stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="14" fill="#111"></rect>
+
+  <polygon points="24,18 24,46 46,32" fill="url(#goldGrad)"></polygon>
+</svg>
